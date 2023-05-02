@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Alice Smith",
+        "bio": "Alice Smith is a celebrated chef with over 15 years of experience in French cuisine. She has worked in some of the top French restaurants in Paris and New York.",
+        "likes": [
+            "French cuisine",
+            "Wine",
+            "Farm-to-table"
+        ],
+        "num_recipes": 100,
+        "years_experience": 15
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Bob Johnson",
+        "bio": "Bob Johnson is a self-taught chef who has been cooking French cuisine for over 20 years. He is known for his innovative approach to fusion cuisine and has won several awards for his French-inspired dishes.",
+        "likes": [
+            "French cuisine",
+            "Fusion cuisine",
+            "Experimentation"
+        ],
+        "num_recipes": 75,
+        "years_experience": 20
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef3.jpg",
+        "name": "Carla Rodriguez",
+        "bio": "Carla Rodriguez is a Mexican chef who specializes in French cuisine. She has trained in some of the top French restaurants in Mexico and France, and is known for her creative takes on classic French dishes.",
+        "likes": [
+            "French cuisine",
+            "Mexican cuisine",
+            "Spicy food"
+        ],
+        "num_recipes": 50,
+        "years_experience": 10
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef4.jpg",
+        "name": "David Lee",
+        "bio": "David Lee is a Korean-American chef who has worked in some of the top French restaurants in the US. He is known for his modern twist on traditional French dishes, incorporating Korean flavors and techniques.",
+        "likes": [
+            "French cuisine",
+            "Korean cuisine",
+            "Kimchi"
+        ],
+        "num_recipes": 60,
+        "years_experience": 12
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Elena Gonzalez",
+        "bio": "Elena Gonzalez is a Spanish chef who has trained in French cuisine and specializes in Mediterranean-French fusion dishes. She has worked in some of the top restaurants in Spain and Italy, and is known for her fresh, flavorful creations.",
+        "likes": [
+            "French cuisine",
+            "Mediterranean cuisine",
+            "Seafood"
+        ],
+        "num_recipes": 80,
+        "years_experience": 18
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Frank Chen",
+        "bio": "Frank Chen is a Chinese-American chef who has trained in French cuisine and specializes in French-inspired Chinese dishes. He has worked in some of the top Chinese and French restaurants in the US, and is known for his creative and delicious dishes.",
+        "likes": [
+            "French cuisine",
+            "Chinese cuisine",
+            "Spicy food"
+        ],
+        "num_recipes": 70,
+        "years_experience": 14
+    }
+]
