@@ -110,16 +110,20 @@
                 "rating": 4
             },
             {
-                "name": "Tarte Tatin",
+                "name": "Croissants",
                 "ingredients": [
-                    "1 pie crust",
-                    "4-5 apples, peeled and sliced",
-                    "1/2 cup sugar",
-                    "4 tbsp unsalted butter, cut into small pieces",
-                    "Salt and pepper to taste"
+                    "2 cups all-purpose flour",
+                    "1/2 cup cake flour",
+                    "1/4 cup granulated sugar",
+                    "1 tbsp instant yeast",
+                    "1 tsp salt",
+                    "1/2 cup cold water",
+                    "1/2 cup cold milk",
+                    "1 1/2 cups unsalted butter, chilled and cut into small pieces",
+                    "1 egg beaten with 1 tbsp water, for egg wash"
                 ],
                 "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
-                "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
+                "cooking_method": "In a large bowl, whisk together all-purpose flour, cake flour, sugar, yeast, and salt. Add cold water and cold milk to the bowl and stir until a dough forms. Turn dough out onto a floured surface and knead for 10 minutes, or until dough is smooth and elastic. Wrap dough in plastic wrap and refrigerate for at least 1 hour. Place chilled butter pieces on a sheet of plastic wrap and fold wrap over to cover butter. Use a rolling pin to flatten butter into a 1/2-inch-thick rectangle. Chill butter in the refrigerator for 15 minutes. On a floured surface, roll out dough into a rectangle. Place chilled butter in the center of the dough and fold dough over to enclose butter. Roll out dough into a rectangle again and fold into thirds. Repeat rolling and folding process two more times, chilling dough in the refrigerator for 15 minutes between each fold. Roll out dough into a large rectangle and cut into triangles. Roll each triangle up tightly, starting from the wide end and tucking in the sides. Place croissants on a baking sheet lined with parchment paper and brush with egg wash. Let croissants rise at room temperature for 1 hour, or until doubled in size. Preheat oven to 400°F. Bake croissants for 15-20 minutes, or until golden brown. Serve warm.",
                 "rating": 4
             }
         ],
@@ -152,23 +156,17 @@
                 "rating": 4.5
             },
             {
-                "name": "Bouillabaisse",
+                "name": "Roasted Chicken with Herbs",
                 "ingredients": [
-                    "1 lb fish fillets, cut into pieces",
-                    "1 lb mussels, cleaned and debearded",
-                    "1 lb clams, cleaned",
-                    "1 onion, chopped",
+                    "1 whole chicken, 3-4 lbs.",
+                    "1/2 cup unsalted butter, softened",
                     "2 cloves garlic, minced",
-                    "2 tomatoes, chopped",
-                    "1 fennel bulb, sliced",
-                    "1 cup white wine",
-                    "2 cups fish stock",
-                    "2 tbsp olive oil",
-                    "1 tbsp saffron threads",
+                    "2 tbsp chopped fresh thyme",
+                    "2 tbsp chopped fresh rosemary",
                     "Salt and pepper to taste"
                 ],
                 "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
-                "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
+                "cooking_method": "Preheat oven to 425°F. Rinse chicken inside and out with cold water and pat dry with paper towels. In a small bowl, combine softened butter, garlic, thyme, and rosemary. Gently loosen the skin on the chicken breast and spread butter mixture underneath the skin, being careful not to tear the skin. Season chicken inside and out with salt and pepper. Place chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the internal temperature reaches 165°F. Let chicken rest for 10-15 minutes before carving.",
                 "rating": 4
             },
             {
@@ -195,22 +193,18 @@
         "likes": 650,
         "recipes": [
             {
-                "name": "Ratatouille",
+                "name": "Steak au Poivre",
                 "ingredients": [
-                    "1 eggplant, diced",
-                    "1 zucchini, diced",
-                    "1 yellow squash, diced",
-                    "1 onion, chopped",
-                    "2 cloves garlic, minced",
-                    "1 red bell pepper, diced",
-                    "1 yellow bell pepper, diced",
-                    "1 can diced tomatoes",
-                    "2 tbsp olive oil",
-                    "1 tbsp fresh thyme leaves",
-                    "Salt and pepper to taste"
+                    "4 8-oz. beef tenderloin steaks",
+                    "1/4 cup black peppercorns, coarsely crushed",
+                    "2 tbsp unsalted butter",
+                    "1/2 cup brandy",
+                    "1/2 cup beef broth",
+                    "1/2 cup heavy cream",
+                    "Salt to taste"
                 ],
                 "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-                "cooking_method": "Heat olive oil in a large skillet over medium-high heat. Add onions and garlic to the skillet and cook until onions are translucent. Add eggplant, zucchini, yellow squash, bell peppers, and thyme leaves to the skillet. Season with salt and pepper. Cook vegetables for 10-15 minutes, stirring occasionally. Add canned tomatoes to the skillet and stir well. Reduce heat to low and let ratatouille simmer for 10-15 minutes. Serve hot.",
+                "cooking_method": "Season steaks with salt and coat both sides with crushed peppercorns, pressing them into the meat. In a large skillet, heat butter over medium-high heat. Add steaks to the skillet and cook for 3-4 minutes per side for medium-rare, or to your desired level of doneness. Remove steaks from skillet and keep warm. Add brandy to the skillet and deglaze, scraping up any browned bits from the bottom of the pan. Add beef broth and simmer until reduced by half. Add heavy cream and simmer for another 2-3 minutes, or until sauce has thickened. Season sauce with salt to taste. Serve steaks with sauce spooned over the top.",
                 "rating": 4.5
             },
             {
@@ -257,23 +251,16 @@
         "likes": 380,
         "recipes": [
             {
-                "name": "Ratatouille",
+                "name": "Potato Puree",
                 "ingredients": [
-                    "1 eggplant, diced",
-                    "1 zucchini, diced",
-                    "1 yellow squash, diced",
-                    "1 onion, chopped",
-                    "2 cloves garlic, minced",
-                    "1 red bell pepper, diced",
-                    "1 yellow bell pepper, diced",
-                    "1 can diced tomatoes",
-                    "2 tbsp olive oil",
-                    "1 tbsp fresh thyme leaves",
-                    "Salt and pepper to taste",
+                    "2 lbs. Yukon gold potatoes, peeled and cubed",
+                    "1 cup heavy cream",
+                    "1/2 cup unsalted butter, softened",
+                    "Fresh Parsley",
                     "Salt and pepper to taste"
                 ],
                 "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-                "cooking_method": "Heat olive oil in a large skillet over medium-high heat. Add onions and garlic to the skillet and cook until onions are translucent. Add eggplant, zucchini, yellow squash, bell peppers, and thyme leaves to the skillet. Season with salt and pepper. Cook vegetables for 10-15 minutes, stirring occasionally. Add canned tomatoes to the skillet and stir well. Reduce heat to low and let ratatouille simmer for 10-15 minutes. Serve hot.",
+                "cooking_method": "Place potatoes in a large pot and cover with cold water. Bring to a boil over high heat and then reduce heat to medium-low. Cook potatoes until tender, about 20-25 minutes. Drain potatoes and return them to the pot. Add heavy cream and butter to the pot and mash potatoes until smooth and creamy. Season with salt and pepper to taste. Serve hot.",
                 "rating": 4.5
             },
             {
