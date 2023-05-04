@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 app.get("/:id", (req, res) => {
   const id = req.params.id;
   const chef = allChefs?.find((chef) => chef.id == id);
-  res.send({ chef });
+  res.send(chef);
 });
 
 app.listen(5000, () => {
