@@ -3,7 +3,12 @@ const cors = require("cors");
 const allChefs = require("./data.json");
 
 const app = express();
-app.use(cors());
+const corsConfig = {
+  origin: "*",
+  credentials: true,
+  methods: ["GET", "POST", "PUT", "DELETE"],
+};
+app.use(cors(corsConfig));
 
 app.get("/", (req, res) => {
   res.json(allChefs);

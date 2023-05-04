@@ -1,14 +1,10 @@
 [
     {
         "id": 1,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/M9ZQ8gX/chef-6.png",
         "name": "Alice Smith",
         "bio": "Alice Smith is a celebrated chef with over 15 years of experience in French cuisine. She has worked in some of the top French restaurants in Paris and New York.",
-        "likes": [
-            "French cuisine",
-            "Wine",
-            "Farm-to-table"
-        ],
+        "likes": 650,
         "recipes": [
             {
                 "name": "Beef Bourguignon",
@@ -46,7 +42,7 @@
                     "2 bay leaves",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Preheat oven to 350°F. In a Dutch oven, cook bacon over medium heat until crispy. Remove bacon and set aside. Brown chicken in bacon fat over high heat. Remove chicken and set aside. In the same Dutch oven, sauté onions, garlic, carrots, and celery until softened. Add tomato paste, thyme, and bay leaves. Cook for 1-2 minutes. Add chicken and bacon back to the Dutch oven. Add wine and chicken broth. Bring to a simmer. Cover Dutch oven and place in oven for 1-2 hours, or until chicken is cooked through. Serve hot.",
                 "rating": 4
             },
@@ -60,7 +56,7 @@
                     "4 slices bacon, cooked and crumbled",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. Roll out pie crust and place in a 9-inch pie dish. In a bowl, whisk together eggs and heavy cream. Add salt and pepper to taste. Sprinkle grated cheese and crumbled bacon on top of pie crust. Pour egg mixture over cheese and bacon. Bake for 30-40 minutes, or until quiche is golden brown and set. Let cool for 10 minutes before slicing and serving.",
                 "rating": 4.5
             }
@@ -69,14 +65,10 @@
     },
     {
         "id": 2,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/Z2Dkr6b/chef-5.png",
         "name": "Bob Johnson",
         "bio": "Bob Johnson is a self-taught chef who has been cooking French cuisine for over 20 years. He is known for his innovative approach to fusion cuisine and has won several awards for his French-inspired dishes.",
-        "likes": [
-            "French cuisine",
-            "Fusion cuisine",
-            "Experimentation"
-        ],
+        "likes": 280,
         "recipes": [
             {
                 "name": "Ratatouille",
@@ -113,7 +105,7 @@
                     "1 tbsp saffron threads",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
                 "rating": 4
             },
@@ -125,7 +117,7 @@
                     "1/2 cup sugar",
                     "4 tbsp unsalted butter, cut into small pieces"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
                 "rating": 4
             }
@@ -134,14 +126,10 @@
     },
     {
         "id": 3,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/Vm83nwW/chef-2.png",
         "name": "Carla Rodriguez",
         "bio": "Carla Rodriguez is a Mexican chef who specializes in French cuisine. She has trained in some of the top French restaurants in Mexico and France, and is known for her creative takes on classic French dishes.",
-        "likes": [
-            "French cuisine",
-            "Mexican cuisine",
-            "Spicy food"
-        ],
+        "likes": 400,
         "recipes": [
             {
                 "name": "Ratatouille",
@@ -178,7 +166,7 @@
                     "1 tbsp saffron threads",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
                 "rating": 4
             },
@@ -190,7 +178,7 @@
                     "1/2 cup sugar",
                     "4 tbsp unsalted butter, cut into small pieces"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
                 "rating": 4
             }
@@ -199,14 +187,10 @@
     },
     {
         "id": 4,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/bRqggZL/chef-1.png",
         "name": "David Lee",
         "bio": "David Lee is a Korean-American chef who has worked in some of the top French restaurants in the US. He is known for his modern twist on traditional French dishes, incorporating Korean flavors and techniques.",
-        "likes": [
-            "French cuisine",
-            "Korean cuisine",
-            "Kimchi"
-        ],
+        "likes": 650,
         "recipes": [
             {
                 "name": "Ratatouille",
@@ -243,7 +227,7 @@
                     "1 tbsp saffron threads",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
                 "rating": 4
             },
@@ -255,7 +239,7 @@
                     "1/2 cup sugar",
                     "4 tbsp unsalted butter, cut into small pieces"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
                 "rating": 4
             }
@@ -264,14 +248,10 @@
     },
     {
         "id": 5,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/rpcjd1V/chef-4.png",
         "name": "Elena Gonzalez",
         "bio": "Elena Gonzalez is a Spanish chef who has trained in French cuisine and specializes in Mediterranean-French fusion dishes. She has worked in some of the top restaurants in Spain and Italy, and is known for her fresh, flavorful creations.",
-        "likes": [
-            "French cuisine",
-            "Mediterranean cuisine",
-            "Seafood"
-        ],
+        "likes": 380,
         "recipes": [
             {
                 "name": "Ratatouille",
@@ -308,7 +288,7 @@
                     "1 tbsp saffron threads",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
                 "rating": 4
             },
@@ -320,7 +300,7 @@
                     "1/2 cup sugar",
                     "4 tbsp unsalted butter, cut into small pieces"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
                 "rating": 4
             }
@@ -329,14 +309,10 @@
     },
     {
         "id": 6,
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "picture": "https://i.ibb.co/br0xPZn/chef-3.png",
         "name": "Frank Chen",
         "bio": "Frank Chen is a Chinese-American chef who has trained in French cuisine and specializes in French-inspired Chinese dishes. He has worked in some of the top Chinese and French restaurants in the US, and is known for his creative and delicious dishes.",
-        "likes": [
-            "French cuisine",
-            "Chinese cuisine",
-            "Spicy food"
-        ],
+        "likes": 890,
         "recipes": [
             {
                 "name": "Ratatouille",
@@ -373,7 +349,7 @@
                     "1 tbsp saffron threads",
                     "Salt and pepper to taste"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/k8WJnBc/photo-1581512778119-b71ae58bc687.png",
                 "cooking_method": "Heat olive oil in a large pot over medium-high heat. Add onions and garlic to the pot and cook until onions are translucent. Add fennel, tomatoes, and saffron to the pot. Season with salt and pepper. Add white wine and fish stock to the pot and bring to a boil. Add fish fillets, mussels, and clams to the pot. Cover and let simmer for 10-15 minutes, or until mussels and clams open and fish is cooked through. Serve hot with crusty bread.",
                 "rating": 4
             },
@@ -385,7 +361,7 @@
                     "1/2 cup sugar",
                     "4 tbsp unsalted butter, cut into small pieces"
                 ],
-                "img": "https://images.unsplash.com/photo-1652622550740-f90d03edfbf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                "img": "https://i.ibb.co/ygzWypF/photo-1549203438-a7696aed4dac.png",
                 "cooking_method": "Preheat oven to 375°F. In a skillet, melt butter over medium heat. Add sugar to the skillet and stir until sugar dissolves and turns golden brown. Add sliced apples to the skillet and toss to coat in caramel sauce. Remove skillet from heat and arrange apples in a circular pattern in the skillet. Roll out pie crust and place on top of apples, tucking the edges of the crust into the sides of the skillet. Bake for 30-40 minutes, or until crust is golden brown. Let cool for 10 minutes before inverting onto a serving platter.",
                 "rating": 4
             }
